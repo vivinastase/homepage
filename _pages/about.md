@@ -19,9 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva, and part of the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>.
+<p>I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva, and part of the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>.</p>
 
-With my friend <a href="https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a>, we wrote some children's books about word etymologies:
+<p>I mostly write code and <a href="https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en">papers</a>.</p>
+
+<p>With my friend <a href="https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a>, we wrote some children's books about word etymologies:</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,8 +40,9 @@ With my friend <a href="https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a>
     </div>
 </div>
  
-<p>
-  I also write serious stuff.
+<p></p>
+
+<p>I also write serious stuff.</p>
   <div class="row row justify-content-start">
     <div class="col-4">
       <a href="https://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781636390871_sample.pdf">
@@ -49,3 +52,4 @@ With my friend <a href="https://web.eecs.umich.edu/~mihalcea/">Rada Mihalcea</a>
     </div>
 </div>
   
+<p></p>
