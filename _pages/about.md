@@ -23,32 +23,21 @@ I am currently a research associate in the <a href="https://clcl.unige.ch/">Comp
 
 With my friend Rada, we wrote some children's books about word etymologies:
 
-<p>
-<a href="https://www.amazon.com/Story-Word-Rada-Mihalcea/dp/1648715281/ref=sr_1_1?crid=2ULW21J34UXRN&keywords=the+story+of+a+word+vivi+nastase&qid=1657111399&sprefix=the+story+of+a+word+vivi+nastase%2Caps%2C133&sr=8-1">
-
-![The Story of a Word](homepage/assets/img/TSoaW_cover.png)
-  
- <img src="homepage/assets/img/TSoaW_cover.png"
-     alt="The Story of a Word"
-     width="400"
-     height="341"
-     title="The Story of a Word: The etymologies of about 50 frequently used English words, to illustrate how creative people, in this case about language, and how interesting and sometimes funny the stories of words are.">
-  
-  If you are curious, here is the <a href="TSoaW_index.png">index</a>, and <a href="The%20Story%20of%20a%20Word%20-%20Sample%20Pages.ss.pdf">a few pages</a>.
-</a>
-
-<a href="https://casacartii.ro/editura/carte/povestea-unui-cuvant/">
-<img src="TSoaW_cover_ro.png"
-     alt="Povestea unui cuvant"
-     width="400"
-     height="341"
-     title="Poestea unui cuvant: The etymologies of about 50 frequently used Romanian words -- in Romanian --, to illustrate how creative people, in this case about language, and how interesting and sometimes funny the stories of words are.">
-  
-  If you are curious, here is the <a href="TSoaW_index_ro.png">index</a>, and <a href="PovesteaUnuiCuvant_sample.pdf">a few pages</a>.
-</a>
-
-</p>
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://www.amazon.com/Story-Word-Rada-Mihalcea/dp/1648715281/ref=sr_1_1?crid=2ULW21J34UXRN&keywords=the+story+of+a+word+vivi+nastase&qid=1657111399&sprefix=the+story+of+a+word+vivi+nastase%2Caps%2C133&sr=8-1">
+        {% include figure.html path="assets/img/TSoaW_cover.png" title="The Story of a Word" class="img-fluid rounded z-depth-1"  %}
+      </a>
+     The book contains etymologies for about 50 frequently used English words, to illustrate how creative people, in this case about language, and how interesting and sometimes funny the stories of words are. If you are curious, here is the <a href="TSoaW_index.png">index</a>, and <a href="The%20Story%20of%20a%20Word%20-%20Sample%20Pages.ss.pdf">a few pages</a>.
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://casacartii.ro/editura/carte/povestea-unui-cuvant/">
+        {% include figure.html path="assets/img/TSoaW_cover_ro.png" title="Povestea unui cuvant" class="img-fluid rounded z-depth-1" %}
+      </a>
+      The book contains etymologies for about 50 frequently used Romanian words -- in Romanian.   If you are curious, here is the <a href="TSoaW_index_ro.png">index</a>, and <a href="PovesteaUnuiCuvant_sample.pdf">a few pages</a>.
+    </div>
+</div>
+ 
 <p>
 <a href="https://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781636390871_sample.pdf">
   <img src="SRbN_cover.png"
