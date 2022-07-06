@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: CLCL group, University of Geneva / NCCR Evolving language
 
 profile:
   align: right
@@ -25,7 +25,10 @@ With my friend Rada, we wrote some children's books about word etymologies:
 
 <p>
 <a href="https://www.amazon.com/Story-Word-Rada-Mihalcea/dp/1648715281/ref=sr_1_1?crid=2ULW21J34UXRN&keywords=the+story+of+a+word+vivi+nastase&qid=1657111399&sprefix=the+story+of+a+word+vivi+nastase%2Caps%2C133&sr=8-1">
-<img src="TSoaW_cover.png"
+
+![The Story of a Word](homepage/assets/img/TSoaW_cover.png)
+  
+ <img src="homepage/assets/img/TSoaW_cover.png"
      alt="The Story of a Word"
      width="400"
      height="341"
