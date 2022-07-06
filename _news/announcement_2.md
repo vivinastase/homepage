@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Science Night (and Day) at the University of Geneva
-date: 2022-07-06 16:11:00-0400
+date: 2022-07-09 
 inline: true
 ---
 
