@@ -2,11 +2,27 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I taught at various institutions
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+University of Stuttgart
+<ul>
+  <li>Methods in Computational Linguistics</li>
+  <li>Knowledge Discovery</li>
+  <li>Semantic Relations between Nominals</li>
+</ul>
 
-Organize your courses by years, topics, or universities, however you like!
+University of Heidelberg
+<ul>
+  <li>Knowledge Discovery</li>
+  <li>Semantic Relations</li>
+  <li>Knowledge Graphs</li>
+  <li>Lexical Semantics</li>
+  <li>Language Change</li>
+  <li>Information Extraction</li>
+  <li>Topic Models</li>
+</ul>
+  
+and I taught a lot of Prolog to students who were only interested in Java, but I loved it! :> 
