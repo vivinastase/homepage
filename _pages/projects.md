@@ -23,7 +23,7 @@ University of Heidelberg/HITS/FBK/University of Stuttgart
     <ul>
        <li> <a href="https://www.morganclaypool.com/doi/abs/10.2200/S01078ED2V01Y202002HLT049">Semantic Relations between Nominals</a> </li>
        <li> <a href="https://arxiv.org/pdf/2009.05426">Semantic Relations and Deep Learning</a> </li>
-       <li> <a href="assets/pdf/ViviNastase_PhDThesis.pdf">Semantic Relations Across Syntactic Levels</a> </li>            
+       <li> <a href="/assets/pdf/ViviNastase_PhDThesis.pdf">Semantic Relations Across Syntactic Levels</a> </li>            
        <li> <a href="https://journals.colorado.edu/index.php/lilt/article/download/1207/1049/">The same semantic relations link structurally different realizations of concepts</a> </li>
        <li> <a href="https://link.springer.com/article/10.1007/s10579-009-9083-2">Classification of semantic relations between nominals</a> </li>
        <li> <a href="https://aclanthology.org/S07-1003/">Semeval-2007 task 04: Classification of semantic relations between nominals</a> </li>
