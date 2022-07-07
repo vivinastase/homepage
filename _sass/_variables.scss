@@ -17,10 +17,10 @@ $green-color-lime:    #B7D12A !default;
 $green-color-dark:    #009f06 !default;
 $green-color-light:   #ddffdd !default;
 $green-color-bright:  #11D68B !default;
-$purple-color:        #540C32 !default;
+$purple-color:        #7D3D5F !default;
 $light-purple-color:  lighten($purple-color, 25%);
-$pink-color:          #540C32 !default;
-$pink-color-light:    #7D3D5F !default;
+$pink-color:          #7D3D5F !default;
+$pink-color-light:    lighten($pink-color, 25%);
 $yellow-color:        #efcc00 !default;
 
 $grey-color:          #828282 !default;
