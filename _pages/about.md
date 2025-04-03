@@ -55,3 +55,5 @@ social: false  # includes social icons at the bottom of the page
 <p></p>
 
 <p>I believe strongly in the power of science communication, and that <i>Science is not finished until it is communicated</i> and not only to peers!. As a member of <a href="https://scifilmit.com/">SciFilmIt</a>, I organize events for making short films about science topics, either for active learning (with teenagers in highschools), or for science communication with the public (with researchers in universities).</p>
+
+<p></p>
