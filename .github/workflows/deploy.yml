@@ -23,7 +23,7 @@ jobs:
     - name: Enable bundler cache
       uses: actions/cache@v4
       with:
-        path: vendor/bundle
+        path: ~/.npm
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
         restore-keys: |
           ${{ runner.os }}-gems-
