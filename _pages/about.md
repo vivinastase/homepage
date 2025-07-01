@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p>I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva, and part of the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>.</p>
+<p>I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva/Idiap Research Institute, Martigny (Switzerland), member of the <a href="https://scifilmit.org">SciFilmIt organization</a>, and former (ex?) part of the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>.</p>
 
 <p>I mostly write code and <a href="https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en">papers</a>.</p>
 
