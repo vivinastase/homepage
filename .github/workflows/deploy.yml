@@ -20,10 +20,6 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.3.5'
-    - name: Extract branch name
-      shell: bash
-      run: echo "DEPLOY_BRANCH=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
-      id: extract_branch
     - name: Enable bundler cache
       uses: actions/cache@v4
       with:
@@ -49,7 +45,7 @@ jobs:
           echo "SRC_BRANCH=${{ github.head_ref }}" >> $GITHUB_OUTPUT
         fi
         #echo "::set-output name=DEPLOY_BRANCH::gh-pages"
-        echo "DEPLOY_BRANCH=${gh-pages}" >> $GITHUB_OUTPUT
+        echo "DEPLOY_BRANCH=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
