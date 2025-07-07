@@ -19,7 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p>I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva/Idiap Research Institute, Martigny (Switzerland), member of the <a href="https://scifilmit.org">SciFilmIt organization</a>, and former Machine Learning consultant in the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>.</p>
+<p>I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva/Idiap Research Institute, Martigny (Switzerland), and former Machine Learning consultant in the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>. I am also a member of the <a href="https://scifilmit.com">SciFilmIt</a> organization which focuses on science communication, because I truly (and possibly also a bit naively) believe that should we all know a bit more about all areas of science, we would get a wonderful big picture about the worls, how things work, how interconnected everything is, that would and hopefully discourage many to destroy from interfering with and destroying these fascinating and crucial connections.</p>
+
 
 <p>I mostly write code and <a href="https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en">papers</a>.</p>
 
