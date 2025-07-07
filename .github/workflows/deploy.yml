@@ -20,6 +20,10 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.3.5'
+    - name: Extract branch name
+      shell: bash
+      run: echo "DEPLOY_BRANCH=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+      id: extract_branch
     - name: Enable bundler cache
       uses: actions/cache@v4
       with:
