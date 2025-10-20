@@ -2,12 +2,24 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the projects I've worked on, with some of the publications that belong with them.
+description: My projects
 nav: true
 nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+
+## Science communication
+
+<b><a href="">Puppets of a Digital Brain</a></b> -- a (not so) short film about the technology behind generative AI, and its good and bad sides.
+
+As member of <a href="https://scifilmit.com/">SciFilmIt</a>, together with the <a href="http://clujshorts.ro/persona-association/">Associatia Persona</a> from Cluj-Napoca (Romania), we organized two events for making short films in 2024:
+<ul>
+<li>In <a href="https://scifilmit.com/cluj-napoca-2024/">the workshop in April</a> a group of pupils from the National Coolege George Cosbuc in Cluj-Napoca made very fun and informative short films on 5 topics, as an active learning activity.</li>
+<li>In <a href="https://scifilmit.com/cluj-napoca-december-2024/">the workshop in December</a>, we had participants form three universities in Cluj-Napoca -- the University of Agricultural Sciences and Veterinaryr Medicine (USAMV), University Babes-Bolyai (UBB), The National Music Academy "Gheorghe Dima" (ANMGD) -- who combined their expertise to created short films about the research at USAMV</li>
+</ul>
+
+## Research
 
 NCCR Evolving language 2021 --
 <ul>
