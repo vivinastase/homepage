@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: PoaDB
 permalink: /PuppetsOfADigitalBrain
 subtitle: A short(-ish ...) film about generative AI
