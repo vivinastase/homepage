@@ -1,6 +1,6 @@
 ---
 layout: about
-title: index
+title: about
 permalink: /
 subtitle: CLCL group, University of Geneva / NCCR Evolving language
 
@@ -9,10 +9,9 @@ profile:
   image: vivi_Smiley.jpg
   address: >
     <p>CLCL Group</p>
-    <p>Centre Universitaire d'Informatique</p>
-    <p>Battelle bâtiment A</p>
-    <p>7 route de Drize</p>
-    <p>1227 Carouge, Switzerland </p>
+    <p>Idiap research institute</p>
+    <p>Via Marconi 19</p>
+    <p>1920 Martigny, Switzerland </p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
