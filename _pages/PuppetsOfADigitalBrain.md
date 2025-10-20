@@ -17,10 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 <p><b>Puppets of a Digital Brain</b> is (will be soon!) a short(-ish ... it keeps growing somehow ...) film that explains the technology behind current generative AI systems, in particular Large Language Models (LLMs) in an accessible and attractive way, and explores and explains the good and bad sides of current AI technologies. The goal is to make this information accessible to the wider public, such that they are better informed to hopefully make more informed choices when using such systems, and shape the development of future AI systems that respect ethical principles in  development, training and usage.</p>
 
-<p><a href="https://www.gofundme.com/f/a-short-film-about-the-technology-behind-ai">Help us finance the project</a></p>
+> <b><a href="https://www.gofundme.com/f/a-short-film-about-the-technology-behind-ai">Help us finance the project</a></b>
 
-<p><a href="https://www.gofundme.com/f/a-short-film-about-the-technology-behind-ai">gofundme! 🙂 </a></p>
-</p>
+> <b><a href="https://www.gofundme.com/f/a-short-film-about-the-technology-behind-ai">gofundme! 🙂 </a></b>
 
 ## Synopsis
 
@@ -117,9 +116,25 @@ Making this film takes advantage of the more than 20 years of first-hand experie
  <i>Karen Hao</i>: Empire of AI <br />
  
 ### Interviews
- Yoshua Bengio: The Catastrophic Risks of AI -- and a safer path
- Munk debate on AI: Yoshua Bengio & Max Tegmark vs. Melanie Mitchell & Yann LeCun
- Geoffrey Hinton: 60 minutes interview
-
-  
+ <i>Yoshua Bengio</i>: <a href="https://www.youtube.com/watch?v=qe9QSCF-d88">The Catastrophic Risks of AI -- and a safer path</a>
+ <i>Munk debate on AI</i>: <a href="https://www.youtube.com/watch?v=144uOfr4SYA">Yoshua Bengio & Max Tegmark vs. Melanie Mitchell & Yann LeCun</a>
+ <i>Geoffrey Hinton</i>: <a href="https://www.youtube.com/watch?v=qrvK_KuIeJk">60 minutes interview</a>
 </p>
+
+## The team
+
+<p>SciFilmIt is collaborating with <a href="https://asociatiapersona.ro/">Persona Association</a> from Cluj-Napoca to make this short film. Here is the enthusiastic team that is working hard to make this film happen:</p>
+
+<b>Project director and scientific consultant</b>: Vivi Nastase (researcher in Natural Language Processing and Machine Learning, with more than 20 years experience)<br />
+<b>Producer/Director</b>: Rareș H. Stoica <br />
+<b>Director of communication and production, screenplay assistant</b>: Silvia Hamza <br />
+<b>Screenplay</b>: Vivi Nastase, Rareș H. Stoica, Asis. Silvia Hamza <br />
+<b>Scenography</b>: Cătălin Mocan, Asis./ Graphic Designer, Karin Vanessa Biriș <br />
+<b>DoP</b>: Andrei Giurgiuman, Rareș H. Stoica, 1Ad. Vlad Șandor <br />
+<b>Music</b>: Cristian Mihai Popescu, Asis. Karin Vanessa Biriș <br />
+<b>Executive producer</b>: Asociația Persona (Cluj-Napoca) <br />
+<b>Associate producer</b>: SciFilmit (Geneva, Switzerland) <br />
+<b>Production company</b>: Persona Media Production (Cluj-Napoca, Romania) <br />
+
+
+
