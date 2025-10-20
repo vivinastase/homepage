@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PoaDB
+title: Puppets of a Digital Brain
 permalink: /PuppetsOfADigitalBrain/
 subtitle: A short(-ish ...) film about generative AI
 
@@ -12,8 +12,6 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-# Puppets of a Digital Brain
 
 <p><b>Puppets of a Digital Brain</b> is (will be soon!) a short(-ish ... it keeps growing somehow ...) film that explains the technology behind current generative AI systems, in particular Large Language Models (LLMs) in an accessible and attractive way, and explores and explains the good and bad sides of current AI technologies. The goal is to make this information accessible to the wider public, such that they are better informed to hopefully make more informed choices when using such systems, and shape the development of future AI systems that respect ethical principles in  development, training and usage.</p>
 
