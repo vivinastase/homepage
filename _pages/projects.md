@@ -14,6 +14,7 @@ horizontal: false
   <li><a href="#research"><b>Research</b></a></li>
 </ul>
 <br />
+---
 
 <a id="SciComm"></a>
 ## Science communication
