@@ -1,9 +1,22 @@
 ---
-layout: page
-permalink: /index.html
-title: "Vivi Nastase"
-description: ""
-redirect: false
+layout: about
+title: index
+permalink: /
+subtitle: CLCL group, University of Geneva / NCCR Evolving language
+
+profile:
+  align: right
+  image: vivi_Smiley.jpg
+  address: >
+    <p>CLCL Group</p>
+    <p>Centre Universitaire d'Informatique</p>
+    <p>Battelle bâtiment A</p>
+    <p>7 route de Drize</p>
+    <p>1227 Carouge, Switzerland </p>
+
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 <p>I am currently a research associate in the <a href="https://clcl.unige.ch/">Computational Learning and Computational Linguistics (CLCL)</a> group at the University of Geneva/<a href="https://idiap.ch/en/">Idiap Research Institute</a>, Martigny (Switzerland), and former Machine Learning consultant in the <a href="https://evolvinglanguage.ch/">NCCR Evolving language</a>. I am also a member of the <a href="https://scifilmit.com">SciFilmIt</a> organization which focuses on science communication, because I truly (and possibly also a bit naively) believe that should we all know a bit more about all areas of science, we would get a wonderful big picture about the world, how it works, how interconnected everything is, and that would hopefully discourage many from interfering with and destroying these fascinating and crucial connections.</p>
