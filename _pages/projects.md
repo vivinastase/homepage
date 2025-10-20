@@ -10,8 +10,8 @@ horizontal: false
 ---
 
 <ul>
-  <li>[<b>Science communication</b>](#SciComm)</li>
-  <li>[<b>Research</b>](#research)</li>
+  <li><a href="#SciComm"><b>Science communication</b></a></li>
+  <li><a href="#research"><b>Research</b></a></li>
 </ul>
 <br />
 
