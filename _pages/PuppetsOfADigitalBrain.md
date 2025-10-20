@@ -1,7 +1,7 @@
 ---
 layout: about
 title: PoaDB
-permalink: /
+permalink: /PuppetsOfADigitalBrain/
 subtitle: A short(-ish ...) film about generative AI
 
 profile:
