@@ -1,14 +1,21 @@
 ---
 layout: page
-title: projects
+title: My projects
 permalink: /projects/
-description: My projects
+description: 
 nav: true
 nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
 
+<ul>
+  <li>[<b>Science communication</b>](#SciComm)</li>
+  <li>[<b>Research</b>](#research)</li>
+</ul>
+<br />
+
+<a id="SciComm"></a>
 ## Science communication
 
 <b><a href="">Puppets of a Digital Brain</a></b> -- a (not so) short film about the technology behind generative AI, and its good and bad sides.
@@ -19,6 +26,7 @@ As member of <a href="https://scifilmit.com/">SciFilmIt</a>, together with the <
 <li>In <a href="https://scifilmit.com/cluj-napoca-december-2024/">the workshop in December</a>, we had participants form three universities in Cluj-Napoca -- the University of Agricultural Sciences and Veterinaryr Medicine (USAMV), University Babes-Bolyai (UBB), The National Music Academy "Gheorghe Dima" (ANMGD) -- who combined their expertise to created short films about the research at USAMV</li>
 </ul>
 
+<a id="research"></a>
 ## Research
 
 NCCR Evolving language 2021 --
